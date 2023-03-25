@@ -31,7 +31,7 @@ export const data = [
     id: 4,
     name: "MERN STACK APPLICATION",
     image: questRunner,
-    github: "",
-    live: "",
+    github: "https://github.com/npereznyc/task-quest-frontend",
+    live: "https://quest-runner.netlify.app/",
   },
 ];
