@@ -6,13 +6,13 @@ import wireTunz from "../assets/projects/wireTunz.png";
 import questRunner from "../assets/projects/quest-runner.gif";
 
 export const data = [
-  {
-    id: 1,
-    name: "MERN STACK APPLICATION",
-    image: wireTunz,
-    github: "https://github.com/mavicmo/wiretunz-frontend",
-    live: "https://wiretunz.netlify.app/",
-  },
+  // {
+  //   id: 1,
+  //   name: "MERN STACK APPLICATION",
+  //   image: wireTunz,
+  //   github: "https://github.com/mavicmo/wiretunz-frontend",
+  //   live: "https://wiretunz.netlify.app/",
+  // },
   {
     id: 2,
     name: "MERN STACK APPLICATION",
