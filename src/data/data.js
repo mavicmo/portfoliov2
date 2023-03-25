@@ -1,8 +1,9 @@
 import WorkIm from "../assets/projects/workImg.jpeg";
 import RealEst from "../assets/projects/realestate.jpg";
-import simplyBudget from "../assets/projects/simplyBudget.png";
-import simplyToDo from "../assets/projects/simplyToDo.png";
+import simplyBudget from "../assets/projects/simplyBudget.gif";
+import simplyToDo from "../assets/projects/simplytodo.gif";
 import wireTunz from "../assets/projects/wireTunz.png";
+import questRunner from "../assets/projects/quest-runner.gif";
 
 export const data = [
   {
@@ -26,11 +27,11 @@ export const data = [
     github: "https://github.com/mavicmo/simplytodo_client",
     live: "https://simplytodo1.netlify.app/",
   },
-  //   {
-  //     id: 4,
-  //     name: "MERN STACK APPLICATION",
-  //     image: RealEst,
-  //     github: "",
-  //     live: "",
-  //   },
+  {
+    id: 4,
+    name: "MERN STACK APPLICATION",
+    image: questRunner,
+    github: "",
+    live: "",
+  },
 ];
